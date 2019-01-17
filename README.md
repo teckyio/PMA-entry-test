@@ -45,6 +45,10 @@ storage.
 
 A [Postman](https://www.getpostman.com/) file is also attached for clarification.
 
+### Technology
+The implemented should be done by NodeJS. It does matter
+which framework you make use of.
+
 ### Submission
 We advise you to use [`CodeSandBox`](https://codesandbox.io/dashboard) to build your RESTful
 API since it is the easiest way to share 
