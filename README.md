@@ -46,7 +46,7 @@ storage.
 A [Postman](https://www.getpostman.com/) file is also attached for clarification.
 
 ### Technology
-The implemented should be done by NodeJS. It does matter
+The implemented should be done by NodeJS. It does not matter
 which framework you make use of.
 
 ### Submission
